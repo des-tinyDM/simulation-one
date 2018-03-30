@@ -1,0 +1,16 @@
+.Product-img {
+    max-height: 200px;
+    max-width:320px;
+    
+    
+
+}
+
+.product {
+    background-color:#D34745;
+    height:200px;
+    width:570px;
+    display:flex;
+    margin:15px 15px;
+    border-radius:7px;
+}
